@@ -165,7 +165,8 @@ div .fac {
 h4 {
 	color: black;
 	position: absolute; 
-	bottom: 4px; 
+	text-align: bottom;
+	margin-bottom: 10px;
 	left: 20px;
 	font-size: 15px;
 }
